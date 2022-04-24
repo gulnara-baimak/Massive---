@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\обучалка\bin\Debug\net6.0\обучалка.exe
+C:\Users\HP\Desktop\обучалка\bin\Debug\net6.0\обучалка.deps.json
+C:\Users\HP\Desktop\обучалка\bin\Debug\net6.0\обучалка.runtimeconfig.json
+C:\Users\HP\Desktop\обучалка\bin\Debug\net6.0\обучалка.dll
+C:\Users\HP\Desktop\обучалка\bin\Debug\net6.0\обучалка.pdb
+C:\Users\HP\Desktop\обучалка\obj\Debug\net6.0\обучалка.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\обучалка\obj\Debug\net6.0\обучалка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\обучалка\obj\Debug\net6.0\обучалка.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\обучалка\obj\Debug\net6.0\обучалка.AssemblyInfo.cs
+C:\Users\HP\Desktop\обучалка\obj\Debug\net6.0\обучалка.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\обучалка\obj\Debug\net6.0\обучалка.dll
+C:\Users\HP\Desktop\обучалка\obj\Debug\net6.0\refint\обучалка.dll
+C:\Users\HP\Desktop\обучалка\obj\Debug\net6.0\обучалка.pdb
+C:\Users\HP\Desktop\обучалка\obj\Debug\net6.0\обучалка.genruntimeconfig.cache
+C:\Users\HP\Desktop\обучалка\obj\Debug\net6.0\ref\обучалка.dll
